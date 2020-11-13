@@ -1,0 +1,21 @@
+h1{color: darkorange;
+    background-color: aqua;
+    text-align: center;}
+
+h2{
+    color: chartreuse;
+    background-color: beige;
+    text-align: center;
+}
+table{background-color:floralwhite;}
+
+
+body{
+    background-image: url(../images/01.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+ol{background-image: url(../images/02.jpg)}
