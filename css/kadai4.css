@@ -1,0 +1,24 @@
+h1.a {
+    color: black;
+    background-color: lime;
+    text-align: center;
+}
+h1.b{
+    color: aliceblue;
+    background-color: blueviolet;
+    text-align: center;
+}
+h2.c{
+    color:azure;
+    background-color: crimson;
+    text-align: center;
+}
+h2.d{
+    color:white;
+    background-color:darkblue;
+    text-align: center;
+}
+body{
+    background-image: url(../images/05.png);
+    background-size: contain;
+}
